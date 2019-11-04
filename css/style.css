@@ -1,9 +1,16 @@
 .row{
   text-align:center;
-  
+
 }
 #choices{
   display:flex;
-  justify-content:space-between;
-  
+  justify-content:space-around;
+
+}
+
+img {
+    width: 500px;
+}
+body{
+    background-color: red;
 }
